@@ -132,7 +132,7 @@
         content: '';
     }
             .block_statistick2,.block_statistick{
-        background:url('../img/mb_stat.html') no-repeat top center;
+        background:url('https://antblock.digital/img/mb_stat.html') no-repeat top center;
 
         width: 320px;
         padding:75px 55px 0 55px;

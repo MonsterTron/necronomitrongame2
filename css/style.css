@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200;400&amp;display=swap');
 
 /*Reset style*/
 * {
@@ -246,7 +246,7 @@ body {
 }
 
 .info_plant:hover {
-    background: url('../img/ico.html') no-repeat top center;
+    background: url('https://antblock.digital/img/ico.html') no-repeat top center;
 }
 
 .advantages_block {
@@ -632,7 +632,7 @@ body {
     max-width: 471px;
     width: 100%;
     margin: 5% auto 0 auto;
-    background: url('../img/bg/faq.html') no-repeat top center;
+    background: url('https://antblock.digital/img/bg/faq.html') no-repeat top center;
     padding: 55px 35px;
     position: relative;
 }
